@@ -1,9 +1,9 @@
 ### Olá, meu nome é Ralf Mota
 
 
--🐱‍👤 Estou atualmente trabalhando com Front-End, Back End
+-🐱‍👤 Estou atualmente trabalhando com Front-End & Back-End
 
--😎 Atualmente estudando HTML, CSS, JAVASCRIPT, C++ 
+-😎 Atualmente estudando HTML, CSS, JAVASCRIPT, PHP, MYSQL
 
 
 <div>
