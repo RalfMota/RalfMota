@@ -3,7 +3,7 @@
 
 -🐱‍👤 Estou atualmente estudando e desenvolvendo conhecimento em linguagens Back-End
 
--😎 Atualmente estudando Java, , JAVASCRIPT, PHP, MYSQL
+-😎 Atualmente estudando Java, Springboot, Mysql
 
 
 <div>
